@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+}
+
+img {
+  width: 80%;
+  height: 80%;
+  margin: 0 1rem;
+}
+
+button {
+  width: 10%;
+  margin: 0 1rem;
+}
+
+button:hover {
+  background-color: gray;
+  color: white;
+}
